@@ -1,6 +1,6 @@
 ### Hola Mundo! || Hello World! 👋
 
-<img align='right' src="https://raw.githubusercontent.com/iCharlesZ/FigureBed/master/img/octocat.gif" width="230">
+<img align='right' src="https://raw.githubusercontent.com/lucas22-f/FigureBed/master/img/octocat.gif" width="230">
 
 ```javascript
 const lucas = {
