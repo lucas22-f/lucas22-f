@@ -19,7 +19,7 @@ const lucas = {
 };
 ```
 
-<h2 align="center">You can reach me at :alien:</h2>
+<h2 align="center">Mis redes || contact 🥸:</h2>
 
 <p align="center">
   <a href="https://dev.to/anhello">
