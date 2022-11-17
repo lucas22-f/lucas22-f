@@ -18,3 +18,5 @@ const lucas = {
     }
 };
 ```
+
+[![Lucas's GitHub Stats](https://github-readme-stats.vercel.app/api?username=lucas22-f&show_icons=true)](https://github.com/lucas22-f)
