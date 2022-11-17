@@ -19,7 +19,7 @@ const lucas = {
 };
 ```
 
-<h2 align="center"> contact 🐸 </h2>
+<h2 align="center"> Contact 🐸 </h2>
 
 <p align="center">
   
@@ -34,7 +34,7 @@ const lucas = {
 
 <p align="center"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=lucas22-f&langs_count=10&theme=tokyonight&layout=compact" alt="AnhellO :: Top Langs" /></p>
 
-<h4 align="center"> stats :fish: </h4>
+<h4 align="center"> Stats :fish: </h4>
 
 <p align="center"><img src="https://github-readme-stats.vercel.app/api?username=lucas22-f&show_icons=true&theme=synthwave" alt="AnhellO :: Profile Stats" /></p>
 
