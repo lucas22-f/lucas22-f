@@ -6,6 +6,7 @@
 const lucas = {
     pronouns: "He" | "Him",
     askMeAbout: ["web dev", "tech", "games"],
+    actually: 'Student'
     technologies: {
         frontEnd: {
             js: ["React"],
