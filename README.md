@@ -33,7 +33,7 @@ const lucas = {
 
 <p align="center">
   
- [![Linkedin](https://img.shields.io/badge/-Sarthak%20Bharadwaj-blue?style=flat-square&logo=linkedin&logoColor=white&link=https://www.linkedin.com/in/lucas-figueroa-3b5743226/)](https://www.linkedin.com/in/lucas-figueroa-3b5743226/)
+ [![Linkedin](https://img.shields.io/badge/-Lucas%20Figueroa-blue?style=flat-square&logo=linkedin&logoColor=white&link=https://www.linkedin.com/in/lucas-figueroa-3b5743226/)](https://www.linkedin.com/in/lucas-figueroa-3b5743226/)
 [![Mail](https://img.shields.io/badge/-lucas.200061@gmail.com-gray?style=flat-square&logo=gmail&logoColor=red&link=https://www.linkedin.com/in/lucas-figueroa-3b5743226/)](mailto:lucas.200061@gmail.com)
 
  
