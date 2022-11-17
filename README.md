@@ -6,8 +6,8 @@
 const lucas = {
     pronouns: "He" | "Him",
     askMeAbout: ["web dev", "tech", "games"],
-    actually: 'Student'
-    searchJob: true
+    actually: 'Student',
+    searchJob: true,
     technologies: {
         frontEnd: {
             js: ["React"],
