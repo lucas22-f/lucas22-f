@@ -24,7 +24,7 @@ const lucas = {
             css: ["bootstrap", "sass"]
         },
         backEnd: ["JavaScript", "nodeJs"],
-        databases: ["MySql"],
+        databases: ["MySql","MongoDB"],
     }
 };
 ```
