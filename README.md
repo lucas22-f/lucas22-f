@@ -7,7 +7,7 @@
 
 Comence a programar en 2021
 
-### Talking about Personal Stuffs:
+### Sobre mi:
 - 🤔 Tengo interes en el desarrollo web
 - 💼 Tengo proyectos como experiencia en mi github
 - 💬 Consultame cualquier duda 
