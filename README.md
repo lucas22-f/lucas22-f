@@ -3,7 +3,7 @@
 
 
 <img align='right' src="https://raw.githubusercontent.com/iCharlesZ/FigureBed/master/img/octocat.gif" width="230">
-## Hola 👋, Soy lucas! un web dev en proceso con muchisimo potencial
+Hola 👋, Soy lucas! un web dev en proceso con muchisimo potencial
 
 Comence a programar en 2021
 
