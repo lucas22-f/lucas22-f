@@ -16,7 +16,7 @@ Comence a programar en 2021
 const lucas = {
     pronouns: "He" | "Him",
     askMeAbout: ["web dev", "tech", "games"],
-    actually: 'Student',
+    actually: "Student",
     searchJob: true,
     technologies: {
         frontEnd: {
