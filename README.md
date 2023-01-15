@@ -37,6 +37,5 @@ const lucas = {
 
 <h2 align="center">Github stats :bar_chart:</h2>
 
-<p align="center"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=lucas22-f&langs_count=10&theme=tokyonight&layout=compact" alt="AnhellO :: Top Langs" /></p>
-<p align="center"><img src="https://github-readme-stats.vercel.app/api?username=lucas22-f&show_icons=true&theme=synthwave" alt="AnhellO :: Profile Stats" /></p>
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=lucas22-f)](https://github.com/anuraghazra/github-readme-stats)
 
