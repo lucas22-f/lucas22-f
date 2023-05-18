@@ -15,9 +15,3 @@ Hola 👋, Soy lucas! estudiante de prog UTN
 [![Mail](https://img.shields.io/badge/-lucas.200061@gmail.com-gray?style=flat-square&logo=gmail&logoColor=red&link=https://www.linkedin.com/in/lucas-figueroa-3b5743226/)](mailto:lucas.200061@gmail.com)
 
 
-<h2 align="center">Github stats :bar_chart:</h2>
-
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=lucas22-f)](https://github.com/anuraghazra/github-readme-stats&show_icons=true&theme=dark)
-
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=lucas22-f)](https://github.com/anuraghazra/github-readme-stats&show_icons=true&theme=dark)
-
