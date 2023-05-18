@@ -1,31 +1,13 @@
 ### Hola Mundo! || Hello World! 👋
 
 
-
-<img align='right' src="https://raw.githubusercontent.com/iCharlesZ/FigureBed/master/img/octocat.gif" width="230">
 Hola 👋, Soy lucas! estudiante de prog UTN
 
 ### Sobre mi:
-- 🤔 Tengo interes en el desarrollo web
 - 💼 Tengo proyectos como experiencia en mi github
 - 💬 Consultame cualquier duda 
 - 📫 Dejo mi mail y mi linked in como canal de contacto :)
-```javascript
-const lucas = {
-    pronouns: "He" | "Him",
-    askMeAbout: ["web dev", "tech", "games"],
-    actually: "Student",
-    searchJob: true,
-    technologies: {
-        frontEnd: {
-            js: ["React"],
-            css: ["bootstrap", "sass"]
-        },
-        backEnd: ["JavaScript", "nodeJs"],
-        databases: ["MySql","MongoDB"],
-    }
-};
-```
+
 
 <h2 align="center"> Contact 🐸 </h2>
 
