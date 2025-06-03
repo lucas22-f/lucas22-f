@@ -1,7 +1,7 @@
 ### Hola Mundo! || Hello World! 👋
 
 
-Hola 👋, Soy lucas! estudiante de prog UTN
+Hola 👋, Soy lucas! software dev UTN
 
 ### Sobre mi:
 - 💼 Tengo proyectos como experiencia en mi github
